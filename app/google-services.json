@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231238195925",
+    "firebase_url": "https://movapp-3c48a-default-rtdb.firebaseio.com",
+    "project_id": "movapp-3c48a",
+    "storage_bucket": "movapp-3c48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231238195925:android:6aa466bb5b91ac2bf1605c",
+        "android_client_info": {
+          "package_name": "com.mumaza.myappsmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231238195925-b1p5uta5peo8j36bd1h11fph5urilo96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQjhFfE_KiRtn_CdqeNCYQLot13PtU8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231238195925-b1p5uta5peo8j36bd1h11fph5urilo96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
